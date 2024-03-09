@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JTlpv59iswxKn1eL538k8js/4zW7dS2oXn7hAzvF1rf/dB4lE1fIXNa/0rxKKE6gGqj7sIqGlT1rsFI5D3MoEg==",
+  "dgSpecHash": "8CbwJIXzBpIbvDt1tLt8xTfJ0YCgk5zY/7d66iIn3YR1bRYqHGE6FswcwNK+hJWHVF50u2Qt/j6jKSBmzpk9kA==",
   "success": true,
   "projectFilePath": "C:\\Users\\marcu\\source\\repos\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
   "expectedPackageFiles": [
@@ -79,11 +79,7 @@
     "C:\\Users\\marcu\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\marcu\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\marcu\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\marcu\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
-    "C:\\Users\\marcu\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\marcu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\marcu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\marcu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+    "C:\\Users\\marcu\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
