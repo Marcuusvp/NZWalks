@@ -1,0 +1,2 @@
+﻿Comando de migration especificando DBContext => Add-Migration "Creating Auth DataBase" -Context "NZWalksAuthDbContext"
+UPDATE => Update-Database -Context "NZWalksAuthDbContext"
