@@ -1,0 +1,11 @@
+# Ignorar diretório .vs
+.vs/
+
+# Ignorar diretório bin
+**/bin/
+
+# Ignorar diretório obj
+**/obj/
+
+# Ignorar todos os arquivos .dll
+**/*.dll
