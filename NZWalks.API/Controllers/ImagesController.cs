@@ -31,7 +31,7 @@ namespace NZWalks.API.Controllers
                     File = request.File,
                     FileExtension = Path.GetExtension(request.File.FileName),
                     FileSizeInBytes = request.File.Length,
-                    FileName = request.FileDescription,
+                    FileName = request.FileName,
                 };
 
                 // Use repository to upload image
